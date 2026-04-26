@@ -1,4 +1,3 @@
-
 %%writefile Proyecto_Matrices/entrada.py
 import numpy as np
 
