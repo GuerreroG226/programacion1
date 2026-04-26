@@ -1,3 +1,5 @@
+%%writefile Proyecto_Matrices/menu.py
+
 def mostrar_menu():
     print("\n--- MENU DE OPERACIONES CON MATRICES ---")
     print("1. Suma de matrices")
