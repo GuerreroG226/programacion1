@@ -1,3 +1,5 @@
+%%writefile Proyecto_Matrices/operaciones_matrices.py
+
 import numpy as np
 
 def sumar_matrices(A, B):
