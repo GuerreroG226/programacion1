@@ -2,6 +2,7 @@ import os
 os.makedirs('Proyecto_Matrices', exist_ok=True)
 
 
+%%writefile Proyecto_Matrices/entrada.py
 import numpy as np
 
 def solicitar_matriz(nombre):
