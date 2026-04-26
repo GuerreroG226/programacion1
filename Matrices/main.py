@@ -1,3 +1,5 @@
+%%writefile Proyecto_Matrices/main.py
+
 import Proyecto_Matrices.operaciones_matrices as ops
 import Proyecto_Matrices.entrada as entrada
 import Proyecto_Matrices.menu as menu
